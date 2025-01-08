@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/its-anamika-anand/To-Do-List.git
 
 Navigate to the project directory:
 
@@ -45,7 +45,7 @@ npm start
 # or
 yarn start
 
-Open the application in your browser at http://localhost:3000.
+
 
 Usage
 
